@@ -4,10 +4,9 @@ This is a copy of exercises from Ed Donner's AI Engineering course, kept here fo
 
 | Notebook | Description |
 |---|---|
-| `day1_gemini_pm_assistant.ipynb` | Uses Google's **Gemini** model (via the OpenAI-compatible endpoint) to act as an AI project management assistant — takes a project status/task description and drafts a stakeholder update with mitigation options. |
+| `day1_gemini_pm_assistant.ipynb` | Uses Google's **Gemini** model (via the OpenAI-compatible endpoint) to act as an AI project management assistant - takes a project status/task description and drafts a stakeholder update with mitigation options. |
 | `ollama_local_summarizer.ipynb` | Runs **Llama 3.2 locally via Ollama** to generate a humorous summary of a scraped website's content. |
 
-> Rename the files above to match whatever they're actually called in this repo.
 
 ## Setup
 
@@ -47,5 +46,5 @@ jupyter notebook
 
 ## Notes
 
-- These are learning exercises duplicated for personal tracking — not the original course source.
+- These are learning exercises duplicated for personal tracking - not the original course source.
 - Swap in your own prompts, models, or target websites to experiment further.
