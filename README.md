@@ -1,4 +1,4 @@
-This is a copy of exercises from Ed Donner's AI Engineering course, kept here for my own tracking/reference (not the original course repo).
+This is a copy of exercises from Ed Donner's AI Engineering course, here for my tracking/reference
 
 ## Contents
 
